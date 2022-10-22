@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-04
+Pega-Codeset-Version: 06-01-01
+ArtifactName: LoyaltyCard
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2022-Oct-15 00:00:00
+PRPC-Engine: 8.7.3 PRPC-8.7.3-469 ()
+Operator: damarla.prathyusha@cognizant.com
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: LoyaltyCard_010101_20221015T073624_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2022-Oct-15 03:36:27
+Pega-Codeset-Name: Customer
+Instance-Count: 1046
+
+Name: FileMetadata
+
